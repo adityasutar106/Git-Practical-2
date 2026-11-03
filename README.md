@@ -14,3 +14,13 @@ I am learning Git and GitHub version control.
 
 This is my first modification.
 
+
+
+\## Collaboration Workflow
+
+
+
+This change is made using a separate feature branch.
+
+Learning Git branching and collaborative development.
+
